@@ -1,7 +1,10 @@
 #Custom ignorings
 
 Dataset/credit_data.csv
-
+Day 9/LANL-Earthquake-Prediction.zip
+Day 9/test/
+Day 9/sample_submission.csv
+Day 9/train.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
