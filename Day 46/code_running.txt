@@ -1,0 +1,1 @@
+1. run the command in cmd: unicorn ml_app:app
