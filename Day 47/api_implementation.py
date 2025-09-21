@@ -1,7 +1,7 @@
 import json
 import requests
 
-url = 'http://127.0.0.1:8000/diabetes_prediction' 
+url = 'https://30f6fdec8731.ngrok-free.app/diabetes_prediction' 
 
 input_data_for_model ={
     'Pregnancies' :6,
