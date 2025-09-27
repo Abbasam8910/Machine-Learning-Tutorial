@@ -6,6 +6,14 @@ Day 9/test/
 Day 9/sample_submission.csv
 Day 9/train.csv
 Day 13/credit_data.csv
+Day 52/dogs-vs-cats.zip
+Day 52/sampleSubmission.csv
+Day 52/test1.zip
+Day 52/train.zip
+Day 52/test1/
+Day 52/train/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
